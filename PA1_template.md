@@ -2,8 +2,9 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
 output: 
-  html_document:
-    keep_md: TRUE
+  md_document:
+    html_document:
+    keep_md: true
 ---
 
 1. Code for reading in the dataset and/or processing the data
